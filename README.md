@@ -1,4 +1,4 @@
-# NightOut Planner (sas-hackathon)
+# NightOut Planner
 
 A fast event/venue planner with a nightly cache, GPT-aided recommendations, and a modern Vite + React TypeScript frontend.
 
