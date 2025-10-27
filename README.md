@@ -4,7 +4,7 @@ A fast event/venue planner with a nightly cache, GPT-aided recommendations, and 
 
 ## Prerequisites
 
-- Python 3.10+
+- Python 3.10+ 
 - Node.js 18+ and npm
 - Optional: Google Places API key, OpenAI key (if you enable GPT and venue details as in the backend)
 
